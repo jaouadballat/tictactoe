@@ -1,0 +1,46 @@
+body{
+    background: #7B435B;
+    color: #fff;
+}
+.main>div{
+    height: 100px;
+    width: 100px;
+    box-sizing: border-box;
+    padding: 30px;
+    font-size: 30px;
+    text-align: center;
+    cursor: pointer;
+}
+.main{
+    display: flex;
+    width: 300px;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    background: #A08396;
+    color: aliceblue;
+}
+.right{
+    border-right: 1px solid #000;
+}
+.bottom{
+    border-bottom: 1px solid #000;
+}
+header{
+    margin: 0 auto;
+    width: 238px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+button{
+    padding: 5px 30px;
+    border: none;
+    cursor: pointer;
+    font-size: 25px;
+    width: 100px;
+    background: #DBCBD2;
+    color: black;
+}
+button:focs{
+    border: none;
+}
